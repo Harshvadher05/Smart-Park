@@ -13,7 +13,7 @@ SmartPark is a web application designed to streamline parking management and enh
 
 ## Live Preview
 
-Find the live webite [here](https://sourabhaprasad.github.io/smartpark/).
+Find the live webite [here](https://smart-park-fawn.vercel.app/).
 
 ## Screenshots
 
